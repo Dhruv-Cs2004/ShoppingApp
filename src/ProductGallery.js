@@ -50,7 +50,7 @@ const ProductGallery = () => {
   );
 };
 
-// 🎨 Styles
+
 const darkBg = "#1e1e2f";
 const cardBg = "#2c2c3e";
 const textLight = "#eaeaea";
